@@ -1,1 +1,1 @@
-Landing Page feita com HTML e Css.
+LP feita com HTML e Css.
